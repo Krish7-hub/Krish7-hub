@@ -1,61 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br><br>* Building MERN Stack projects<br>* Strengthening my problem-solving skills through Data Structures & Algorithms<br>* Exploring AWS Cloud and modern backend technologies<br><br>🌱 I’m currently learning<br><br>* MERN Stack Development<br>* AWS Cloud<br>* Advanced DSA concepts and system design fundamentals<br><br>👯 I’m looking to collaborate on<br><br>* Open Source Projects<br>* MERN Stack Applications<br>* Software Engineering and Cyber Security projects<br><br>🤝 I’m looking for help with<br><br>* Internship opportunities<br>* Full-time Software Engineering roles<br>* Cyber Security learning and real-world projects<br><br>💬 Ask me about<br><br>* C++ and JavaScript<br>* Data Structures & Algorithms<br>* Web Development<br>* Git & GitHub<br>* Problem Solving<br><br>⚡ Fun fact<br>I enjoy solving coding challenges and turning ideas into real-world projects.<br>
 
-# Hi, I'm Krish Kumar 👋
 
-## 🚀 About Me
-Computer Science Engineering student passionate about Software Engineering, Problem Solving, and Cyber Security.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishkumar07052006/) 
 
-I enjoy building practical projects, improving coding skills, and learning modern technologies.
-
----
-
-## 💻 Currently Working On
-- Strengthening Data Structures & Algorithms
-- Building Full Stack and JavaScript Projects
-- Exploring Cyber Security concepts
-- Improving problem-solving skills on coding platforms
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Krish7-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Krish7-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krish7-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Krish7-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Languages
-- C++
-- C
-- JavaScript
-- Python
-- Java (Basics)
-
-### Web Technologies
-- HTML
-- CSS
-- MySQL
-- ReactJs
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-
----
-
-## 🏆 Achievements
-- Solved 600+ coding problems across coding platforms
-- LeetCode Contest Rating: 1508
-- NTSE State Rank 7
-
----
-
-## 📈 Coding Profiles
-- LeetCode: https://leetcode.com/u/KRISHKUMAR7/
-- LinkedIn: https://www.linkedin.com/in/krishkumar07052006/
-
----
-
-## 📫 Reach Me
-- Email: krish2006kr@gmail.com
-
----
-
-## ⚡ Fun Fact
-I enjoy solving coding problems and turning ideas into real-world projects.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
